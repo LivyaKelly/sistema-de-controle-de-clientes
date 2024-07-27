@@ -1,0 +1,14 @@
+C:\Sistema_SENAI\atividade\bin\Debug\net8.0\Atividade.exe
+C:\Sistema_SENAI\atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Sistema_SENAI\atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Sistema_SENAI\atividade\bin\Debug\net8.0\Atividade.dll
+C:\Sistema_SENAI\atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.dll
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Sistema_SENAI\atividade\obj\Debug\net8.0\ref\Atividade.dll
